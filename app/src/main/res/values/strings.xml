@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MudandoMinhaPosicaoGPS</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="btn_atual_position">Marcar posição atual</string>
+    <string name="btn_calculate">Calcular</string>
+    <string name="tv_actual_position" />
+    <string name="tv_initial_position">Posição Inicial</string>
+    <string name="tv_position_initial" />
+    <string name="tv_position_actual" />
+    <string name="initial_position">Posição inicial</string>
+    <string name="actual_position">Posição atual</string>
+    <string name="tv_distance_label">Distância</string>
+    <string name="tv_distance" />
+</resources>
